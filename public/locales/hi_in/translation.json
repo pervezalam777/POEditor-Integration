@@ -1,14 +1,14 @@
 {
-  "welcomeLabel":"Webhooks में आपका स्वागत है",
-  "btnSubmit":"प्रस्तुत",
-  "nameLabel":"आपका नाम",
-  "heading":"Collect two",
-  "library":{
-    "books":{
-      "bookOne":{
-        "title":"two states",
-        "author":"chetan bhagat"
-      }
+    "welcomeLabel": "Webhooks में आपका स्वागत है",
+    "btnSubmit": "अपना जवाब प्रस्तुत करें",
+    "nameLabel": "आपका नाम",
+    "heading": "दो एकत्र करें",
+    "library": {
+        "books": {
+            "bookOne": {
+                "title": "दो राज्य",
+                "author": "चेतन भगत"
+            }
+        }
     }
-  }
 }
