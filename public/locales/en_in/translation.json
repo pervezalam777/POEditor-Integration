@@ -1,0 +1,14 @@
+{
+  "welcomeLabel":"Welcome to webhooks",
+  "btnSubmit":"Submit",
+  "nameLabel":"Your name",
+  "heading":"Collect two2",
+  "library":{
+    "books":{
+      "bookOne":{
+        "title":"two states",
+        "author":"chetan bhagat"
+      }
+    }
+  }
+}
