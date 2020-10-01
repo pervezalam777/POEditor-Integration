@@ -3,10 +3,11 @@
     "btnSubmit": "अपना जवाब प्रस्तुत करें",
     "nameLabel": "आपका नाम",
     "heading": "दो एकत्र करें",
+    "new":"new books",
     "library": {
         "books": {
             "bookOne": {
-                "title": "दो राज्य",
+                "title": "दो राज्य added more",
                 "author": "चेतन भगत"
             }
         }

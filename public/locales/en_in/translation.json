@@ -3,6 +3,7 @@
     "btnSubmit": "Submit Your Answer",
     "nameLabel": "Your name",
     "heading": "Collect two2",
+    "new":"new books",
     "library": {
         "books": {
             "bookOne": {
