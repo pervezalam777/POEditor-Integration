@@ -2,7 +2,10 @@
     "welcomeLabel": "Welcome to webhooks",
     "btnSubmit": "Submit Your Answer",
     "nameLabel": "Your name",
-    "heading": "Collect two2",
+    "heading": {
+        "one": "singular translation",
+        "other": "Plural translations"
+    },
     "library": {
         "books": {
             "bookOne": {
