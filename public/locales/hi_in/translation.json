@@ -2,7 +2,10 @@
     "welcomeLabel": "Webhooks में आपका स्वागत है",
     "btnSubmit": "अपना जवाब प्रस्तुत करें",
     "nameLabel": "आपका नाम",
-    "heading": "दो एकत्र करें add more text",
+    "heading": {
+        "one": "दो एकत्र करें add more text",
+        "other": "दो एकत्र करें add than two items"
+    },
     "library": {
         "books": {
             "bookOne": {
